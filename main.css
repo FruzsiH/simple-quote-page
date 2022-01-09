@@ -5,3 +5,18 @@ body {
     background-attachment: fixed;
     background-size: cover;
 }
+.center {
+    font-family: 'Ubuntu Mono', monospace;
+    color: blanchedalmond;
+    text-align: center;
+    text-justify: initial;
+    position: absolute;
+    top: 55%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    text-shadow: 2px 2px coral;
+
+}
+.name {
+    font-family: 'Comforter Brush', cursive;
+}
